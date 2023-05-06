@@ -1,0 +1,50 @@
+{"socialmedia": [{
+  "id":1,
+  "title": "Facebook",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1200px-Facebook_f_logo_%282021%29.svg.png",
+  "description": "Facebook-It is an online social media network that connects people through an online platform.By sharing content like text,images,videos.Users can contribute ideas and join conversations with other people.",
+  "launch":2004,
+  "ranking":2,
+  "url":"https://www.facebook.com/",
+  "users":"2.96 billion"
+},
+{
+  "id":2,
+  "title": "Instagram",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg",
+  "description": "Instagram-It is a photo and video sharing social networking service.The app allow users to upload media that can be edited with filters and organized by hashtags and geographical tagging. ",
+  "launch":2010,
+  "ranking":3,
+  "url":"https://www.instagram.com/accounts/login/",
+  "users":"2.35 billion"
+},
+{
+  "id":3,
+  "title": "Twitter",
+  "image": "https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk",
+  "description": "Twitter-It is a service for friends,family and coworkers to communicate and stay connected through the exchange of quick,frequent messages.People posts Tweets,which may contain photos,videos,links and text.",
+  "launch":2006,
+  "ranking":4,
+  "url":"https://twitter.com/i/flow/login",
+  "users":"450 million"
+},
+{
+  "id":4,
+  "title": "LinkedIn",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png",
+  "description": "LinkedIn-It is a business and employment-focused social media platform that works through websites and mobile apps.Moto is to connect the world's professionals to make them more productive and successful.",
+  "launch":1890,
+  "ranking":5,
+  "url":"https://www.linkedin.com/home",
+  "users":"900 million"
+},
+{
+  "id":5,
+  "title": "Google",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/706px-Google_%22G%22_Logo.svg.png",
+  "description": "Google-It focuses on online advertising,search engine technology,cloud computing,computer software,quantum computing,e-commerce,AI and consumer electronics.",
+  "launch":1890,
+  "ranking":1,
+  "url":"https://home.google.com/u/0/",
+  "users":"4.3 billion"
+}]}
